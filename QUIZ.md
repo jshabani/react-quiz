@@ -47,7 +47,7 @@ export default class CounterContainer {
   }
 }
 
-export function Counter(props) {  // just takes props, has not state
+export function Counter(props) {  // just takes props, has no state
   // render logic
 }
 ```
