@@ -4,9 +4,11 @@ React Counter Quiz
 Normal quiz:
 * Open book
 * Submit as normal lab assignment
-* Limited time (35 minutes)
+* **Testing portion not graded**
+* Limited time (30 minutes)
 
-Please read the testing requirements before you begin as it may influence how you construct your app.
+Please read the testing requirements before you begin as it may influence how you construct your app. Note however, that
+_the testing portion will not count_ towards total grade for this quiz.
 
 ## App
 
