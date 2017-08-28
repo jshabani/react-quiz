@@ -9,8 +9,8 @@ Using `create-react-app`, create a counter app:
 
 ![image](https://user-images.githubusercontent.com/478864/29787788-0bbe70d4-8be5-11e7-8021-f74e317f4406.png)
 
-* When the right button is clicked, the count increments.
-* When the left button is clicked, the count decrements.
+* When the right `+` button is clicked, the count increments.
+* When the left `-` button is clicked, the count decrements.
 * When the count is 0, the left button should be disabled:
 
 ![image](https://user-images.githubusercontent.com/478864/29787853-56fa8452-8be5-11e7-9810-1c32d940c704.png)
