@@ -5,6 +5,9 @@ import './App.css';
 class App extends Component {
   constructor(props) {
     super(props);
+    this.state = {
+        count: 0
+    }
     this.incrementCounter = this.incrementCounter.bind(this);
     this.decrementCounter =this.decrementCounter.bind(this);
   }
@@ -17,7 +20,7 @@ class App extends Component {
 
   decrementCounter () {
     this.setState({
-      count: this.state.count -1
+      count: this.state.count - 1
     });
   }
 
@@ -27,7 +30,7 @@ class App extends Component {
     }
   }
   render() {
-    const { getInitial, incrementCounter, decrementCounter} = this.props
+    console.log(this.incrementCounter);
     return (
       <div className="App">
         <div className="App-header">
