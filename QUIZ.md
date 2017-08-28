@@ -1,6 +1,11 @@
 React Counter Quiz
 ===
 
+Normal quiz:
+* Open book
+* Submit as normal lab assignment
+* Limited time (35 minutes)
+
 Please read the testing requirements before you begin as it may influence how you construct your app.
 
 ## App
